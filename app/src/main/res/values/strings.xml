@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">fireface</string>
+    <string name="facebook_app_id">156459131701597</string>
+    <string name="not_log_in">No Pudo Iniciar sesión</string>
+    <string name="not_firebase_auth">No se pudo autentificar por firebase</string>
+</resources>
